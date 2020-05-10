@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Makro - Die Anfänge
+author: Marc
 tags: [Fotografie, Makro]
 ---
-
-# Makro - Die Anfänge
 
 Im Januar 2019 habe ich mir ein Altglas-Makroobjektiv gekauft: Ein Soligor 100mm F3.5 1:2 Makro für Minolta MD, das ich an meine A6000 adaptiert habe. Mit dabei war eine Vorsatzlinse (Achromat), um die Vergrößerung auf 1:1 zu bringen.
 
