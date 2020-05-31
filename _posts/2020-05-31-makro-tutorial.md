@@ -5,7 +5,7 @@ author: Marc
 tags: [Fotografie, Makro]
 ---
 
-![2019-05-01_14-52-51_DSC04158-4](/img/2019-05-01_14-52-51_DSC04158-4.jpg)
+![2019-05-01_14-52-51_DSC04158-4](2020-05-31-makro-tutorial/2020-05-15_18-12-19_DSC09941-4.jpg)
 
 Vorbemerkungen
 ==============
@@ -17,7 +17,9 @@ Vorbemerkungen
     - Crashkurs Fotografie - Fotografieren lernen mit Krolop&Gerst
       [https://www.youtube.com/watch?v=7QWHKFcjP_0](https://www.youtube.com/watch?v=7QWHKFcjP_0)
 - Es gibt eine alternative Methode, die ich hier nicht beschreibe: Makrofotografie mit einem Stativ. Dafür muss das Motiv längere Zeit unbeweglich sein, was ich zu einschränkend finde. Andere Fotografen sagen, dass diese Methode auch mit lebenden Insekten gut funktioniert, wenn man morgens sehr früh aufsteht und die Insekten noch weniger aktiv sind (noch ein Grund dagegen).
-- Ich schreibe hier nichts über Fokus Stacking. Dabei handelt es sich um eine fortgeschrittene Technik – für den Anfang kann man auch ohne Stacking tolle Bilder machen.
+- Ich schreibe hier nichts über Fokus Stacking. Dabei handelt es sich um eine fortgeschrittene Technik – man kann auch ohne Stacking tolle Bilder machen. Alle Beispielbilder auf dieser Seite sind nicht gestackt.
+
+
 
 Welche anderen Quellen kann man sich anschauen?
 ===============================================
