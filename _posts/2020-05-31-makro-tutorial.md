@@ -5,7 +5,7 @@ author: Marc
 tags: [Fotografie, Makro]
 ---
 
-![2019-05-01_14-52-51_DSC04158-4](2020-05-31-makro-tutorial/2020-05-15_18-12-19_DSC09941-4.jpg)
+![](/img/2020-05-31-makro-tutorial/2020-05-15_18-12-19_DSC09941-4.jpg)
 
 Vorbemerkungen
 ==============
@@ -19,7 +19,7 @@ Vorbemerkungen
 - Es gibt eine alternative Methode, die ich hier nicht beschreibe: Makrofotografie mit einem Stativ. Dafür muss das Motiv längere Zeit unbeweglich sein, was ich zu einschränkend finde. Andere Fotografen sagen, dass diese Methode auch mit lebenden Insekten gut funktioniert, wenn man morgens sehr früh aufsteht und die Insekten noch weniger aktiv sind (noch ein Grund dagegen).
 - Ich schreibe hier nichts über Fokus Stacking. Dabei handelt es sich um eine fortgeschrittene Technik – man kann auch ohne Stacking tolle Bilder machen. Alle Beispielbilder auf dieser Seite sind nicht gestackt.
 
-
+![](/img/2020-05-31-makro-tutorial/2020-05-27_17-21-17_DSC00864-3.jpg)
 
 Welche anderen Quellen kann man sich anschauen?
 ===============================================
@@ -30,6 +30,9 @@ Ich habe meine Methode im Wesentlichen vom Youtuber Micael Widell abgeschaut:
 - Tutorial: [https://www.youtube.com/watch?v=RRJ9iopSUO4](https://www.youtube.com/watch?v=RRJ9iopSUO4)
 - Anfängertipps: [https://www.youtube.com/watch?v=QUXzv1l9daE](https://www.youtube.com/watch?v=QUXzv1l9daE)
 
+![](/img/2020-05-31-makro-tutorial/2020-05-28_18-49-42_DSC00991-3.jpg)
+
+
 Was wird benötigt?
 ==================
 
@@ -39,6 +42,8 @@ Was wird benötigt?
 - Ein kleiner Diffusor
 
 Mehr zum Equipment gibt es weiter unten.
+
+![](/img/2020-05-31-makro-tutorial/2019-07-29_10-11-28_DSC05356-4.jpg)
 
 Wie man fotografiert
 ====================
@@ -69,8 +74,13 @@ Wie man fotografiert
     - Die Belichtungszeit hat Einfluss auf die Helligkeit des Hintergrundes, der Blitz beleuchtet vor allem den Vordergrund. Mit sehr kurzen Belichtungszeiten kann man Bilder erzeugen, die wie Studiofotos aussehen, weil der Hintergrund fast schwarz wird (dafür braucht man aber ggfs. High-Speed Sync, weil man kürzer als die Blitzsynchronzeit belichtet).
     - Auf der anderen Seite kann man auch lange Belichtungszeiten ausprobieren, der Blitz wird das "Haupt-Bild" des Motivs trotzdem einfrieren und man bekommt einen farbigeren Hintergrund.
 
+![](/img/2020-05-31-makro-tutorial/2019-07-29_10-44-09_DSC05487-3.jpg)
+
 Equipment
 =========
+
+![](/img/2020-05-31-makro-tutorial/2020-05-31_11-03-20_DSC00744-1.jpg)
+![](/img/2020-05-31-makro-tutorial/2020-05-31_11-03-37_DSC00748-1.jpg)
 
 Kamera
 ------
@@ -81,6 +91,8 @@ An der A6000 gibt es ein Feature, das besonders nützlich ist: „Fokus Peaking�
 Zumindest bei Sony-Kameras gibt es noch einen Trick für Leute, die RAW fotografieren (wer nicht weiß, was mit RAW gemeint ist, sollte diesen Absatz ignorieren):
 
 Die Kamera auf „Creative Style: Schwarz/Weiß“ einstellen. Das Bild im Display und das JPEG sind dann Schwarz-Weiß, das RAW natürlich nicht. Auf dem Schwarz/Weiß-Bild im Display sieht man die roten Punkte vom Fokus Peaking sehr viel deutlicher.
+
+![](/img/2020-05-31-makro-tutorial/2019-07-29_10-44-09_DSC05487-3.jpg)
 
 Makro-Zwischenringe
 -------------------
@@ -100,6 +112,8 @@ Man sollte sich darüber im Klaren sein, dass man das Objektiv dabei "jenseits s
 
 Man kann Makro-Zwischenringe auch mit anderen unten genannten Methoden kombinieren, um die Vergrößerung weiter zu steigern.
 
+![](/img/2020-05-31-makro-tutorial/2019-08-20_12-55-39_DSC05688-4.jpg)
+
 Alternativ: Makro-Objektiv
 --------------------------
 
@@ -117,6 +131,8 @@ Man braucht für Makrofotografie nicht zwingend Autofokus.
 - Von  Laowa/Venus Optics gibt es manuelle Makroobjektive mit Vergrößerungsfaktoren größer 1:1.
 - Insbesondere für spiegellose Systemkameras kann Altglas eine gute Option sein. Ich bin aktuell sehr zufrieden mit einem Vivitar 55mm 2.8 1:1 Makro, das mich ca. 100€ gekostet hat.
 
+![](/img/2020-05-31-makro-tutorial/2019-08-20_13-24-45_DSC05702-4.jpg)
+
 Alternativ: Reverse-Adapter
 ---------------------------
 
@@ -127,6 +143,8 @@ Das ist eine fortgeschrittene Methode, die man für Vergrößerungen höher als 
 
 Ich habe mir mal einen billigen Adapter gekauft, allerdings saß dieser nicht stabil auf dem Bajonett. Daher habe ich hier wenig Erfahrungen.
 
+![](/img/2020-05-31-makro-tutorial/2020-05-11_14-48-07_DSC09622-3.jpg)
+
 Alternativ: Vorsatzlinsen
 -------------------------
 
@@ -135,6 +153,8 @@ Man kann eine Zusatzlinse vorne vor das Objektiv klemmen und so die Naheinstellg
 Ich hab ein Altglas-Objektiv (Soligor 100mm), das eigentlich nur ein 1:2 Makro ist, mit einer mitgelieferten Zusatzlinse aber zum 1:1 Makro wird. Meine Erfahrungen damit sind durchwachsen, die Zusatzlinse verschlechtert die Bildqualität insbesondere bei Gegenlicht deutlich.
 
 Mit googeln stellt man fest: Diese Erfahrung haben auch Andere gemacht. Allerdings gibt es auch Berichte darüber, dass Vorsatzlinsen von Raynox gute Ergebnisse geben sollen. Trotzdem würde ich für den Anfang Zwischenringe vorziehen.
+
+![](/img/2020-05-31-makro-tutorial/2020-05-17_16-28-36_DSC00129-3.jpg)
 
 Blitz & Diffusor
 ----------------
@@ -147,6 +167,8 @@ Wie bei normaler Fotografie ist die Einfallsrichtung des Lichts und auch die Qua
 Hier kann man sich kreativ austoben. Man kann einen kleinen Diffusor kaufen, Makrofotografen bauen sich zum Teil aber auch Konstruktionen aus Papier, Chipsdosen, Lampenschirmen etc. Mit einem Funkauslöser kann man auch „entfesselt blitzen“, also den Blitz in der 2. Hand halten und von der Kamera unabhängig bewegen.
 Basisausrüstung ist ein Aufsteckblitz mit kleinem Diffusor. Ich verwende einen Godox TT685S als Blitz und verschiedene billige Konstruktionen als Diffusor.
 
+![](/img/2020-05-31-makro-tutorial/2020-05-17_16-34-21_DSC00158-2.jpg)
+
 Erklärungen zum Vergrößerungsfaktor
 ===================================
 
@@ -157,8 +179,12 @@ Nehmen wir an, dass eine Biene ist 2 cm groß. Wenn ich diese bei maximaler Verg
 
 Man kann sich leicht überlegen: Bei annähernd gleicher Megapixelzahl haben APS-C oder MFT-Kameras bei Makrofotografie einen Vorteil gegenüber Vollformat (A6000: 24 Mpixel, A7 III: 24 MPixel).
 
+![](/img/2020-05-31-makro-tutorial/2020-05-30_13-34-51_DSC01114-3.jpg)
+
 Wie messe ich den Vergrößerungsfaktor?
 --------------------------------------
 Bei Makro-Objektiven steht der Vergrößerungsfaktor auf der Packung. Bei den verschiedenen Eigenbau-Lösungen kennt man den Faktor erstmal nicht.
 
 Daher fotografiere man bei maximaler Vergrößerung (= minimalem Abstand) ein Lineal. Wenn ich weiß, dass der Sensor meiner A6000 genau 2,36 cm breit ist und ich vom horizontal ausgerichteten Lineal etwas mehr als 2,3 cm sehe, dann bin ich also ungefähr bei 1:1.
+
+![](/img/2020-05-31-makro-tutorial/2020-05-27_17-32-28_DSC00912-3.jpg)
