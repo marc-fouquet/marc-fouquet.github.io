@@ -5,6 +5,8 @@ author: Marc
 tags: [Fotografie, Makro]
 ---
 
+![2019-05-01_14-52-51_DSC04158-4](img/2019-05-01_14-52-51_DSC04158-4.jpg)
+
 Vorbemerkungen
 ==============
 
@@ -22,9 +24,9 @@ Welche anderen Quellen kann man sich anschauen?
 
 Ich habe meine Methode im Wesentlichen vom Youtuber Micael Widell abgeschaut:
 
-- Sein Kanal: https://www.youtube.com/channel/UCJ9XPzyAZ4JP1HqxAN71dMQ
-- Tutorial: https://www.youtube.com/watch?v=RRJ9iopSUO4
-- Anfängertipps: https://www.youtube.com/watch?v=QUXzv1l9daE
+- Sein Kanal: [https://www.youtube.com/channel/UCJ9XPzyAZ4JP1HqxAN71dMQ](https://www.youtube.com/channel/UCJ9XPzyAZ4JP1HqxAN71dMQ)
+- Tutorial: [https://www.youtube.com/watch?v=RRJ9iopSUO4](https://www.youtube.com/watch?v=RRJ9iopSUO4)
+- Anfängertipps: [https://www.youtube.com/watch?v=QUXzv1l9daE](https://www.youtube.com/watch?v=QUXzv1l9daE)
 
 Was wird benötigt?
 ==================
