@@ -24,11 +24,15 @@ Vorbemerkungen
 Welche anderen Quellen kann man sich anschauen?
 ===============================================
 
-Ich habe meine Methode im Wesentlichen vom Youtuber Micael Widell abgeschaut:
+Ich habe meine Methode im Wesentlichen vom Youtuber Micael Widell (englisch) abgeschaut:
 
 - Sein Kanal: [https://www.youtube.com/channel/UCJ9XPzyAZ4JP1HqxAN71dMQ](https://www.youtube.com/channel/UCJ9XPzyAZ4JP1HqxAN71dMQ)
 - Tutorial: [https://www.youtube.com/watch?v=RRJ9iopSUO4](https://www.youtube.com/watch?v=RRJ9iopSUO4)
 - Anfängertipps: [https://www.youtube.com/watch?v=QUXzv1l9daE](https://www.youtube.com/watch?v=QUXzv1l9daE)
+
+Auf Youtube gibt es auch viele deutschsprachige Videos zu Makrofotografie. Allgemein ist Youtube eine gute Quelle, wenn man irgendetwas über Fotografie wissen will.
+
+Auf Facebook gibt es eine Gruppe zu Makrofotografie.
 
 ![](/img/2020-05-31-makro-tutorial/2020-05-28_18-49-42_DSC00991-3.jpg)
 
@@ -50,30 +54,31 @@ Wie man fotografiert
 
 - Belichtung:
     - Belichtungsmodus manuell (M)
-    - Blende zwischen 8 und 16, bei mir meist 11. Bei Offenblende ist die Schärfentiefe zu gering. Über Blende 16 schlägt die Beugungsunschärfe zu.
+    - Blende zwischen 8 und 16, bei mir meist 11. Bei Offenblende ist die Schärfentiefe zu gering, über Blende 16 schlägt die Beugungsunschärfe zu.
     - ISO niedrig, mit der Basis-ISO der Kamera starten (z.B. ISO 100).
     - Belichtungszeit auf die Blitzsynchronzeit der Kamera einstellen (bei der Sony A6000 ist das 1/160).
-    - Den Blitz zunächst auf 1/16 stellen und dann ein Testbild machen. Wenn das Bild zu dunkel ist, die Stärke erhöhen. Wenn es gar nicht reichen sollte, vorsichtig ISO und Blende (aber nicht die Belichtungszeit) nachregulieren.
-    - Sonnenlicht hat kaum Einfluss auf die Belichtung. Auch das Licht vom Blitz ist immer ungefähr gleich hell, da der Abstand Blitz zu Motiv ja immer gleich ist.
-    - Eher ein Einflussfaktor ist die Umgebung. Für Motive auf hellen Blumen muss man ggfs. die Belichtung etwas runter regeln.
-    - Normalerweise bleiben die Belichtungseinstellungen die meiste Zeit gleich.
+    - Den Blitz zunächst auf 1/16 Stärke stellen und dann ein Testbild machen. Wenn das Bild zu dunkel ist, die Stärke erhöhen. Wenn es gar nicht reichen sollte, vorsichtig ISO oder Blende (aber nicht die Belichtungszeit) nachregulieren.
+    - Normalerweise bleiben die Belichtungseinstellungen die meiste Zeit gleich.    
+        - Das Sonnenlicht hat wenig Einfluss auf die Belichtung. Die Einstellungen sind so dunkel gewählt, dass das natürliche Licht ohne Blitz ein extrem unterbelichtetes Bild produzieren würde.
+        - Das Licht vom Blitz ist immer ungefähr gleich hell, da der Abstand Blitz zu Motiv ja immer gleich ist.
+        - Eher ein Einflussfaktor ist die Umgebung. Für Motive auf hellen Blumen muss man ggfs. den Blitz um einen Blendenschritt runter regeln (z.B. von 1/16 auf 1/32).
+
 - Fokus:
-    - Der schwierigere Teil. Trotz Blende 11 ist die Schärfentiefe sehr gering.
+    - Der schwierigere Teil. Trotz Blende 11 ist die Schärfentiefe sehr gering, so ca. 3 mm.
     - Fokusmodus manuell (MF)
     - Das Objektiv auf die kleinstmögliche Distanz einstellen.
     - Nah an das Motiv herangehen. Die Kamera vor und zurück bewegen und somit dem Abstand zum Motiv variieren, bis es scharf ist. Das ist die Stelle, an der Fokus Peaking (siehe unten) hilft.
     - Viele Fotos machen und nicht enttäuscht sein, wenn 80-90% unscharf und daher für die Tonne sind.
 - Praxistipps:
     - Man sollte sich kooperative Motive suchen. Wenn sich das Motiv zu viel bewegt (z.B. Bienen beim Honig sammeln), dann wird das Fotografieren recht schwierig. Es gibt durchaus genug Insekten, die still halten.
-    - Es wird viel darüber geredet, dass man für Makrofotografie eher lange Brennweiten verwenden sollte, damit man mehr Abstand zum Motiv halten kann. Hier wird oft das Wort „Fluchtdistanz“ verwendet – wie nah lässt einen das Tier herankommen, bevor es die Flucht ergreift?
-
-    Meiner Erfahrung nach ist dieser Faktor selten ausschlaggebend. Bei einigen Insekten ist die Fluchtdistanz größer als 30cm und man hat ohnehin keine Chance. Andererseits gibt es doch erstaunlich viele Käfer etc. die einen noch ignorieren, wenn man ihnen ein Objektiv direkt vor die Nase hält (z.B. auf 3 cm Abstand).
+    - Es wird viel darüber geredet, dass man für Makrofotografie eher lange Brennweiten verwenden sollte, damit man mehr Abstand zum Motiv halten kann. Hier wird oft das Wort "Fluchtdistanz" verwendet – wie nah lässt einen das Tier herankommen, bevor es die Flucht ergreift?
+    Meiner Erfahrung nach ist dieser Faktor nicht so ausschlaggebend, wie man zunächst denkt. Bei einigen Insekten ist die Fluchtdistanz größer als 30cm und man hat ohnehin keine Chance. Andererseits gibt es doch erstaunlich viele Käfer, die einen auch dann noch ignorieren, wenn man ihnen ein Objektiv direkt vor die Nase hält (z.B. auf 3 cm Abstand).
 - Die hohe Kunst:
     - Trotz geringer Schärfentiefe immer versuchen, die Augen des Tiers scharf zu bekommen.
     - Verschiedene Perspektiven ausprobieren, bei denen man die geringe Schärfentiefe nicht so bemerkt. Wenn ein Tier z.B. ziemlich flach ist, kann man es direkt (nicht schräg!) von oben fotografieren und bekommt es so vielleicht komplett scharf.
     - "Auf Augenhöhe" fotografieren. Der Zuschauer fühlt sich dadurch stärker einbezogen, als wenn er die Szene "von oben herab" sieht. Diesen Effekt gibt es allgemein beim Fotografieren von kleinen Lebewesen, von Vögeln über Hunde bis zu Kindern.
     - Auf Bildkomposition und Hintergrund achten!
-    - Die Belichtungszeit hat Einfluss auf die Helligkeit des Hintergrundes, der Blitz beleuchtet vor allem den Vordergrund. Mit sehr kurzen Belichtungszeiten kann man Bilder erzeugen, die wie Studiofotos aussehen, weil der Hintergrund fast schwarz wird (dafür braucht man aber ggfs. High-Speed Sync, weil man kürzer als die Blitzsynchronzeit belichtet).
+    - Die Belichtungszeit hat Einfluss auf die Helligkeit des Hintergrundes, der Blitz beleuchtet vor allem den Vordergrund. Mit sehr kurzen Belichtungszeiten kann man Bilder erzeugen, die wie Studiofotos aussehen, weil der Hintergrund fast schwarz wird. Dafür braucht man aber ggfs. High-Speed Sync, weil man kürzer als die Blitzsynchronzeit belichtet.
     - Auf der anderen Seite kann man auch lange Belichtungszeiten ausprobieren, der Blitz wird das "Haupt-Bild" des Motivs trotzdem einfrieren und man bekommt einen farbigeren Hintergrund.
 
 ![](/img/2020-05-31-makro-tutorial/2019-07-29_10-44-09_DSC05487-3.jpg)
@@ -93,11 +98,9 @@ Die Pixeldichte des Kamerasensors ist für Makrofotografie besonders wichtig. Be
 
 Bei einigen MFT-Kameras gibt es außerdem Spezialfunktionen für Makrofotografie. Hierzu kann ich aber nichts Näheres beitragen, da ich keine solche Kamera besitze.
 
-An der A6000 gibt es allerdings auch ein Feature, das besonders nützlich ist: „Fokus Peaking“. Hierbei zeigt die Kamera an den Stellen, wo sie besonders viel Kontrast sieht, rote Punkte an. Das Hilft beim Fokussieren enorm.
+An der A6000 gibt es allerdings auch ein Feature, das besonders nützlich ist: "Fokus Peaking". Hierbei zeigt die Kamera an den Stellen, wo sie besonders viel Kontrast sieht, rote Punkte an. Man sieht also die scharfen Stellen rot markiert, was beim Fokussieren enorm hilft.
 
-In diesem Zusammenhang hier noch einen Trick für Leute, die RAW fotografieren (wer nicht weiß, was mit RAW gemeint ist, sollte diesen Absatz ignorieren):
-
-Die Kamera auf „Creative Style: Schwarz/Weiß“ einstellen. Das Bild im Display/Sucher und das JPEG sind dann Schwarz-Weiß, das RAW natürlich nicht. Auf dem Schwarz/Weiß-Bild im Display/Sucher sieht man die roten Punkte vom Fokus Peaking sehr viel deutlicher.
+In diesem Zusammenhang hier noch einen Trick für Leute, die RAW fotografieren: Die Kamera auf "Creative Style: Schwarz/Weiß" einstellen. Das Bild im Display/Sucher und das JPEG sind dann Schwarz-Weiß, das RAW natürlich nicht. Auf dem Schwarz/Weiß-Bild im Display/Sucher sieht man die roten Punkte vom Fokus Peaking sehr viel deutlicher.
 
 ![](/img/2020-05-31-makro-tutorial/2019-07-29_10-44-09_DSC05487-3.jpg)
 
@@ -110,8 +113,8 @@ Es handelt sich um Ringe, die zwischen Objektiv und Kamera gesetzt werden, so da
 
 Meine Experimente mit Meike Zwischenringen (10 + 16mm, kosten im Set ca. 30€) an der A6000 ergaben:
 
-- Das Kit 16-50mm kommt so ungefähr auf Vergrößerung 1:1,2.
-- Das Sony 35mm/1.8 erreicht fast Vergrößerung 1:1. Dafür muss man aber auf ca. 4cm an das Motiv ran.
+- Das Kit 16-50mm kommt so ungefähr auf Abbildungsmaßstab 1:1,2.
+- Das Sony 35mm/1.8 erreicht fast Abbildungsmaßstab 1:1. Dafür muss man aber auf ca. 4cm an das Motiv ran.
 - Ich habe ein paar andere Objektive probiert, mit denen es nicht so gut funktionierte. So etwas wie 1:1,5 sollte aber recht leicht zu erreichen sein.
 - Bei Teleobjektiven ist die Wirkung der Ringe geringer.
 
@@ -128,15 +131,15 @@ Ein Makro-Objektiv ist ein Objektiv, das sehr nahe Objekte fotografieren kann, d
 
 Makroobjektive können ziemlich teuer sein. Es macht Sinn, Makrofotografie mit billigem Equipment zu lernen und DANACH informiert zu entscheiden, was man kaufen möchte. Mit etwas Praxis kann sich insbesondere die persönlich Meinung über folgende Punkte ändern:
 
-- Brennweite
-- Will ich Autofokus haben?
-- Gewünschter Vergrößerungsfaktor
+- Welche Brennweite will ich?
+- Brauche ich Autofokus?
+- Welcher Abbildungsmaßstab ist gewünscht?
 
-Insbesondere für spiegellose Systemkameras kann Altglas eine gute Option sein. Ich bin aktuell sehr zufrieden mit einem Vivitar 55mm 2.8 1:1 Makro, das mich ca. 100€ gekostet hat.
+Insbesondere für spiegellose Systemkameras kann Altglas eine gute Option sein. Hier muss man aber aufpassen, viele alte Makro-Objektive haben nur einen Abbildungsmaßstab von 1:2. Ich bin aktuell sehr zufrieden mit einem Vivitar 55mm 2.8 1:1 Makro, das mich auf eBay ca. 100€ gekostet hat.
 
-Man braucht für Makrofotografie nicht zwingend Autofokus, außerdem ist die Blende meist weit geschlossen. Teure moderne Makroobjektive wie z.B. das Sony 90mm 2.8 mögen tolle Objektive sein - konkret für die Makrofotografie sehe ich aber aktuell den Mehrwert eines 1000€-Objektivs gegenüber dem oben genannten 100€-Objektiv nicht.
+Man braucht für Makrofotografie nicht zwingend Autofokus. Man fotografiert außerdem meist mit geschlossener Blende, daher ist die Schärfe des Objektivs weniger ausschlaggebend. Teure moderne Linsen wie z.B. das Sony 90mm 2.8 Makro mögen tolle Objektive sein - konkret für die Makrofotografie sehe ich aber aktuell den Mehrwert eines 1000€-Objektivs gegenüber dem oben genannten 100€-Objektiv nicht.
 
-Von Laowa/Venus Optics gibt es manuelle Makroobjektive mit Vergrößerungsfaktoren größer 1:1. Wenn ich mir den Kauf eines modernen Makroobjektivs überlegen würde, dann würde ich in diese Richtung tendieren.
+Von Laowa/Venus Optics gibt es manuelle Makroobjektive mit einer Vergrößerung von mehr als 1:1. Wenn ich mir den Kauf eines modernen Makroobjektivs überlegen würde, dann würde ich in diese Richtung tendieren.
 
 ![](/img/2020-05-31-makro-tutorial/2019-08-20_13-24-45_DSC05702-4.jpg)
 
@@ -145,7 +148,7 @@ Alternativ: Reverse-Adapter
 
 Hab ich erst für einen Witz gehalten, ist aber wirklich eine Möglichkeit. Ein Objektiv wird dafür gebaut, ein entferntes Motiv auf einen nahen Sensor zu projizieren. Wenn man es umdreht und ein paar Zwischenringe verwendet, kann man ein sehr nahes Motiv auf einen - jetzt etwas weiter entfernten - Sensor projizieren.
 
-Man verwendet also einen Adapter Kamera-Bajonett auf Filterring, damit man sein Objektiv falschrum an die Kamera schrauben kann.
+Man verwendet also einen Adapter von Kamera-Bajonett auf Filterring, damit man sein Objektiv falschrum an die Kamera schrauben kann.
 
 Das ist eine fortgeschrittene Methode, die man für Vergrößerungen höher als 1:1 verwendet. Das Objektiv sollte manuell sein, damit man Fokus und Blende noch einstellen kann, ohne dass das Objektiv Strom- und Datenverbindungen zur Kamera hat. Daher verwendet man hier gerne Altglas-Objektive.
 
@@ -158,7 +161,7 @@ Alternativ: Vorsatzlinsen
 
 Man kann eine Zusatzlinse vorne vor das Objektiv klemmen und so die Naheinstellgrenze verringern.
 
-Ich hab ein Altglas-Objektiv (Soligor 100mm), das eigentlich nur ein 1:2 Makro ist, mit einer mitgelieferten Zusatzlinse aber zum 1:1 Makro wird. Meine Erfahrungen damit sind durchwachsen, die Zusatzlinse verschlechtert die Bildqualität insbesondere bei Gegenlicht deutlich.
+Ich habe ein Altglas-Objektiv (Soligor 100mm), das eigentlich nur ein 1:2 Makro ist, mit einer mitgelieferten Zusatzlinse aber zum 1:1 Makro wird. Meine Erfahrungen damit sind durchwachsen, die Zusatzlinse verschlechtert die Bildqualität insbesondere bei Gegenlicht deutlich.
 
 Mit googeln stellt man fest: Ähnliche Erfahrungen haben auch Andere gemacht. Vorsatzlinsen scheinen potenziell die Makro-Technik zu sein, die die Bildqualität am stärksten negativ beeinflussen kann.
 
@@ -169,22 +172,26 @@ Allerdings gibt es auch Berichte darüber, dass man mit Vorsatzlinsen von Raynox
 Blitz & Diffusor
 ----------------
 
-Ein Aufsteckblitz ist für meine Methode zwingend erforderlich. Ich bin am Anfang naiv einfach nur mit Kamera und Objektiv los gelaufen und war sehr enttäuscht von den Ergebnissen. Erst der Blitz verschafft einem das notwendige Licht, um bei Blende 11 zu fotografieren. Darüber hinaus friert er Bewegungen ein.
+Ein Aufsteckblitz ist für meine Methode zwingend erforderlich. Ich bin am Anfang naiv einfach nur mit Kamera und Objektiv los gelaufen und war sehr enttäuscht von den Ergebnissen. Erst der Blitz verschafft einem das notwendige Licht, um bei Blende 11 und ISO 100 zu fotografieren. Darüber hinaus friert er Bewegungen ein.
 
-Man sollte sich darüber klar sein, dass bei Blitzfotografie die Helligkeit des Motivs sehr stark vom Abstand zum Blitz abhängt. Die Belichtungszeit dagegen hat kaum noch einen Einfluss auf die Helligkeit. Jede Kamera hat eine "Blitzsynchronzeit" (z.B. 1/160), dabei handelt es sich um die minimale Belichtungszeit, die ohne besondere Ticks (High-Speed Sync) mit Blitzen funktioniert.
+Man sollte sich darüber klar sein, dass bei Blitzfotografie die Helligkeit des Motivs sehr stark vom Abstand zum Blitz abhängt (Fachbegriff: "Inverse Square Law"). Die Belichtungszeit dagegen hat kaum noch einen Einfluss auf die Helligkeit. Jede Kamera hat eine "Blitzsynchronzeit" (z.B. 1/160), dabei handelt es sich um die minimale Belichtungszeit, die ohne besondere Ticks (High-Speed Sync) mit Blitzen funktioniert.
 
 Wie bei normaler Fotografie ist die Einfallsrichtung des Lichts und auch die Qualität (weiches vs. hartes Licht) sehr wichtig. Für „Portraits“ von Tieren will man weiches Licht, das tendenziell von oben kommt. Man sollte auf jeden Fall einen kleinen Diffusor verwenden, um aus dem Blitz eine flächige Lichtquelle zu machen.
 
-Hier kann man sich kreativ austoben. Man kann einen kleinen Diffusor kaufen, Makrofotografen bauen sich zum Teil aber auch Konstruktionen aus Papier, Chipsdosen, Lampenschirmen etc. Mit einem Funkauslöser kann man auch „entfesselt blitzen“, also den Blitz in der 2. Hand halten und von der Kamera unabhängig bewegen.
+Hier kann man sich kreativ austoben. Man kann einen kleinen Diffusor kaufen, viele Makrofotografen bauen sich aber auch Konstruktionen aus Papier, Chipsdosen, Lampenschirmen etc. Mit einem Funkauslöser kann man auch „entfesselt blitzen“, also den Blitz in der 2. Hand halten und von der Kamera unabhängig bewegen.
 
-Basisausrüstung ist ein Aufsteckblitz mit kleinem Diffusor. Ich verwende einen Godox TT685S als Blitz und verschiedene billige Konstruktionen als Diffusor.
+Nicht so schön finde ich Ringlichter, die teilweise speziell für Makrofotografie verkauft werden. Schwachpunkt hier ist, dass das Licht genau aus Richtung des Objektivs alles glattbügelt. Es gibt keine Schatten, wodurch das Motiv weniger dreidimensional wirkt. Außerdem sind Dauerlichter weniger hell als Blitze.
+
+Wer an dieser Stelle (sehr viel) tiefer einsteigen möchte, kann auf Youtube Tutorials zu Blitzfotografie schauen. Dabei geht es zwar normalerweise um Studiofotografie, die Prinzipien sind aber die Gleichen. Gut fand ich zu dem Thema die Playlist von Neunzehn72: [https://www.youtube.com/watch?v=5QvBkF2UZFQ&list=PL9VTVf3ZRECaVh60mQEMYSy9__wjEQwYs](https://www.youtube.com/watch?v=5QvBkF2UZFQ&list=PL9VTVf3ZRECaVh60mQEMYSy9__wjEQwYs)
+
+Aber zurück zum Thema. Basisausrüstung für ist ein Aufsteckblitz mit kleinem Diffusor. Ich verwende einen Godox TT685S als Blitz und verschiedene billige Konstruktionen als Diffusor.
 
 ![](/img/2020-05-31-makro-tutorial/2020-05-17_16-34-21_DSC00158-2.jpg)
 
-Erklärungen zum Vergrößerungsfaktor
+Erklärungen zum Abbildungsmaßstab
 ===================================
 
-Makrofotografen reden oft von Vergrößerungsfaktoren, z.B. 1:1. Das bedeutet Folgendes:
+Makrofotografen reden oft vom Abbildungsmaßstab, beispielsweise 1:1. Das bedeutet Folgendes:
 
 Nehmen wir an, dass eine Biene 2 cm groß ist. Wenn ich diese bei maximaler Vergrößerung (also aus kürzestmöglicher Distanz) fotografiere und dafür ein 1:1 Makroobjektiv verwende, dann wird das Abbild der Biene auf dem Sensor meiner Kamera auch 2 cm groß sein. Wenn mein Makro-Objektiv nur 1:2 schafft dann ist das Bild der Biene nur 1 cm groß.
 
@@ -192,10 +199,10 @@ Nehmen wir an, dass eine Biene 2 cm groß ist. Wenn ich diese bei maximaler Verg
 
 ![](/img/2020-05-31-makro-tutorial/2020-05-30_13-34-51_DSC01114-3.jpg)
 
-Wie messe ich den Vergrößerungsfaktor?
+Wie messe ich den Abbildungsmaßstab?
 --------------------------------------
 
-Bei echten Makro-Objektiven steht der Vergrößerungsfaktor auf der Packung. Bei den verschiedenen Eigenbau-Lösungen kennt man den Faktor erstmal nicht.
+Bei echten Makro-Objektiven steht der Abbildungsmaßstab auf der Packung. Bei den verschiedenen Eigenbau-Lösungen kennt man den Faktor erstmal nicht.
 
 Daher fotografiere man bei maximaler Vergrößerung (= minimalem Abstand) ein Lineal. Wenn ich weiß, dass der Sensor meiner A6000 genau 2,36 cm breit ist und ich vom horizontal ausgerichteten Lineal etwas mehr als 2,3 cm sehe, dann bin ich also ungefähr bei 1:1.
 
