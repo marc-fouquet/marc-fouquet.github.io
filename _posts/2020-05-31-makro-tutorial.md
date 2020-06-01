@@ -102,7 +102,7 @@ An der A6000 gibt es allerdings auch ein Feature, das besonders nützlich ist: "
 
 In diesem Zusammenhang hier noch einen Trick für Leute, die RAW fotografieren: Die Kamera auf "Creative Style: Schwarz/Weiß" einstellen. Das Bild im Display/Sucher und das JPEG sind dann Schwarz-Weiß, das RAW natürlich nicht. Auf dem Schwarz/Weiß-Bild im Display/Sucher sieht man die roten Punkte vom Fokus Peaking sehr viel deutlicher.
 
-![](/img/2020-05-31-makro-tutorial/2019-07-29_10-44-09_DSC05487-3.jpg)
+![](/img/2020-05-31-makro-tutorial/2019-08-20_12-44-52_DSC05652-4.jpg)
 
 Makro-Zwischenringe
 -------------------
