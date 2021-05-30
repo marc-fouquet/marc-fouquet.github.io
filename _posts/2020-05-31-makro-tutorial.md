@@ -141,6 +141,8 @@ Man braucht für Makrofotografie nicht zwingend Autofokus. Man fotografiert auß
 
 Von Laowa/Venus Optics gibt es manuelle Makroobjektive mit einer Vergrößerung von mehr als 1:1. Wenn ich mir den Kauf eines modernen Makroobjektivs überlegen würde, dann würde ich in diese Richtung tendieren.
 
+___Update Mail 2021:___ Ich habe das Laowa 65mm 2:1 Ultra-Makro gekauft und nach etwas Eingewöhnung ist das Objektiv der Hammer! 2:1 Makrofotografie ist nochmal schwieriger, da die Schärfentiefe nochmal geringer ist und man somit noch präziser arbeiten muss. Aber die Ergebnisse sind es wert. ([Album mit Beispielbildern](https://marc-fouquet.github.io/gallery/2021_Makro_Laowa_65mm.html))
+
 ![](/img/2020-05-31-makro-tutorial/2019-08-20_13-24-45_DSC05702-4.jpg)
 
 Alternativ: Reverse-Adapter
